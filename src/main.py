@@ -223,7 +223,7 @@ class Library:
                 print(f"- {book}")
         return None
                 
-if __name__ == '__main__':
+'''if __name__ == '__main__':
     lib = Library()
 
     # --- создаём книги ---
@@ -257,4 +257,4 @@ if __name__ == '__main__':
 
     # --- ремонт книги ---
     b3.repair()
-    print(b3)
+    print(b3)'''
